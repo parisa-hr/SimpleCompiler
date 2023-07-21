@@ -42,4 +42,4 @@ make
 
 ## license
 
-This project is licensed under the 
+This project is licensed under the [ GPL-3.0 license ](https://github.com/parisa-hr/SimpleCompiler/blob/main/LICENSE)
